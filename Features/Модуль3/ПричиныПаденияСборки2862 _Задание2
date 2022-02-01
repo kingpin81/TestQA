@@ -1,0 +1,21 @@
+1) Unable to move to the required line in  table.
+   - падение на шаге "And I go to line in "BasisesTree" table 1"
+     не удалось перейти к строке в таблице "BasisesTree"
+2) The button/command with  header is not found.
+   - падение на шаге "And I click "Sales invoice" button 1"
+     почему-то не удалось нажать на кнопку и создать СФ
+3) Form table named  is not found.
+   - падение на шаге "And I go to line in "List" table"
+     не удалось перейти к строке в таблице "List"
+4) Expected number of lines in  table is равно 0 and actual number is<2>.
+   - падение на шаге "Then the number of "BasisesTree" table lines is "равно" 0"
+     не соответствие ожидаемому количеству строк в таблице
+5) Line No.
+   - падение на шаге "And "ResultTable" spreadsheet document contains lines:"
+     не соответствие ожидаемому содержимому в таблице
+6) Unable to move to the required line in  table.
+   - падение на шаге "And I go to line in "BasisesTree" table"
+     не удалось перейти к строке в таблице "BasisesTree"
+7) Error calling context method (ExecuteCommand):
+   - падение на шаге "Given I open hyperlink "e1cib/list/Document.SalesOrder"
+     не удалось открыть гиперссылку
